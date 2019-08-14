@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Spranks_SaveAdminCredentials",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "This extension enables you to save your admin credentials in Magento >= 1.8 again.",
+    "authors": [
+    {
+        "name": "Simon Sprankel",
+        "email": "simonsprankel@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
