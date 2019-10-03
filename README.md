@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 This extension enables you to save your admin credentials in Magento >= 1.8 again.
